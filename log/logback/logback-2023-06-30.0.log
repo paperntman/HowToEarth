@@ -1,0 +1,85 @@
+17:13:02.411 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication using Java 17.0.7 with PID 9948 (C:\Users\chojj\IdeaProjects\HowToEarth\build\classes\java\main started by chojj in C:\Users\chojj\IdeaProjects\HowToEarth)
+17:13:02.413 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+17:13:03.796 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 443 (https)
+17:13:03.823 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["https-jsse-nio-443"]
+17:13:03.835 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:13:03.835 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+17:13:03.931 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:13:03.931 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1468 ms
+17:13:04.267 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+17:13:04.542 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+17:13:04.587 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["https-jsse-nio-443"]
+17:13:04.705 INFO  o.a.t.u.net.NioEndpoint.certificate - Connector [https-jsse-nio-443], TLS virtual host [_default_], certificate type [UNDEFINED] configured from [C:\Users\chojj/.keystore] using alias [tomcat] and with trust store [null]
+17:13:04.722 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 443 (https) with context path ''
+17:13:04.737 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.786 seconds (process running for 3.768)
+17:13:05.183 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:13:05.184 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:13:05.185 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:18:31.626 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication using Java 17.0.7 with PID 4556 (C:\Users\chojj\IdeaProjects\HowToEarth\build\classes\java\main started by chojj in C:\Users\chojj\IdeaProjects\HowToEarth)
+17:18:31.629 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+17:18:32.988 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 443 (https)
+17:18:32.997 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["https-jsse-nio-443"]
+17:18:33.002 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:18:33.002 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+17:18:33.084 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:18:33.084 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1400 ms
+17:18:33.370 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+17:18:33.658 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+17:18:33.696 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["https-jsse-nio-443"]
+17:18:33.803 INFO  o.a.t.u.net.NioEndpoint.certificate - Connector [https-jsse-nio-443], TLS virtual host [_default_], certificate type [UNDEFINED] configured from [C:\Users\chojj/.keystore] using alias [tomcat] and with trust store [null]
+17:18:33.822 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 443 (https) with context path ''
+17:18:33.835 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.647 seconds (process running for 3.509)
+17:18:34.064 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:18:34.065 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:18:34.066 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:19:55.948 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication using Java 17.0.7 with PID 15784 (C:\Users\chojj\IdeaProjects\HowToEarth\build\classes\java\main started by chojj in C:\Users\chojj\IdeaProjects\HowToEarth)
+17:19:55.951 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+17:19:57.271 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (https)
+17:19:57.283 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["https-jsse-nio-8080"]
+17:19:57.288 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:19:57.288 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+17:19:57.366 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:19:57.366 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1363 ms
+17:19:57.678 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+17:19:57.958 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+17:19:57.995 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["https-jsse-nio-8080"]
+17:19:58.106 INFO  o.a.t.u.net.NioEndpoint.certificate - Connector [https-jsse-nio-8080], TLS virtual host [_default_], certificate type [UNDEFINED] configured from [C:\Users\chojj/.keystore] using alias [tomcat] and with trust store [null]
+17:19:58.127 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (https) with context path ''
+17:19:58.142 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.613 seconds (process running for 3.483)
+17:19:58.422 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:19:58.422 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:19:58.423 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:21:14.135 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication using Java 17.0.7 with PID 2752 (C:\Users\chojj\IdeaProjects\HowToEarth\build\classes\java\main started by chojj in C:\Users\chojj\IdeaProjects\HowToEarth)
+17:21:14.137 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+17:21:15.414 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (https)
+17:21:15.423 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["https-jsse-nio-8080"]
+17:21:15.430 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:21:15.430 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+17:21:15.515 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:21:15.515 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1324 ms
+17:21:15.825 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+17:21:16.099 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+17:21:16.136 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["https-jsse-nio-8080"]
+17:21:16.249 INFO  o.a.t.u.net.NioEndpoint.certificate - Connector [https-jsse-nio-8080], TLS virtual host [_default_], certificate type [UNDEFINED] configured from [C:\Users\chojj/.keystore] using alias [tomcat] and with trust store [null]
+17:21:16.267 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (https) with context path ''
+17:21:16.280 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.596 seconds (process running for 3.49)
+17:21:16.566 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:21:16.567 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:21:16.568 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:24:16.501 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication using Java 17.0.7 with PID 13464 (C:\Users\chojj\IdeaProjects\HowToEarth\build\classes\java\main started by chojj in C:\Users\chojj\IdeaProjects\HowToEarth)
+17:24:16.503 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+17:24:17.768 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 443 (https)
+17:24:17.779 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["https-jsse-nio-443"]
+17:24:17.784 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:24:17.784 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+17:24:17.875 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:24:17.875 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1327 ms
+17:24:18.258 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+17:24:18.591 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+17:24:18.632 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["https-jsse-nio-443"]
+17:24:18.755 INFO  o.a.t.u.net.NioEndpoint.certificate - Connector [https-jsse-nio-443], TLS virtual host [_default_], certificate type [UNDEFINED] configured from [C:\Users\chojj/.keystore] using alias [tomcat] and with trust store [null]
+17:24:18.781 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 443 (https) with context path ''
+17:24:18.798 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.707 seconds (process running for 3.586)
+17:24:18.983 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:24:18.984 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:24:18.985 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
