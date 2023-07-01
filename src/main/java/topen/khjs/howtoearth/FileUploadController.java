@@ -1,5 +1,7 @@
 package topen.khjs.howtoearth;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.util.StringUtils;
@@ -18,8 +20,9 @@ import java.nio.file.StandardCopyOption;
 public class FileUploadController {
 
     public static final String UPLOAD_DIR = Paths.get("").toAbsolutePath()+ File.separator+"img";
+    Logger logger = LoggerFactory.getLogger(this.getClass());
 
-    @PostMapping("/upload")
+    @PostMapping(value = "/upload")
     public ResponseEntity<String> uploadFile(@RequestPart("file") MultipartFile file) {
         // Check if the uploaded file is not empty
         if (file.isEmpty()) {
@@ -31,8 +34,11 @@ public class FileUploadController {
             String fileName = generate(file);
 
             // Return the file upload success response
+            logger.info("File uploaded successfully: {}", fileName);
             return ResponseEntity.ok().body("File uploaded successfully: " + fileName);
+
         } catch (IOException e) {
+            logger.error("File upload failed");
             return ResponseEntity.status(500).body("Failed to upload file. Please try again.");
         }
     }
