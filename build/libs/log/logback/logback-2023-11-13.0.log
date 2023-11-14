@@ -1,0 +1,252 @@
+22:52:36.650 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 16208 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+22:52:36.653 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+22:52:38.101 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+22:52:38.110 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+22:52:38.112 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:52:38.112 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+22:52:38.217 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:52:38.218 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1498 ms
+22:52:38.555 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+22:52:38.798 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+22:52:38.847 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+22:52:38.878 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+22:52:38.896 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.701 seconds (process running for 3.696)
+22:52:47.482 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:52:47.483 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:52:47.485 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+22:52:56.604 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+22:52:56.608 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699883576565
+22:53:38.627 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 8740 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+22:53:38.630 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+22:53:40.117 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+22:53:40.127 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+22:53:40.129 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:53:40.129 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+22:53:40.245 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:53:40.245 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1554 ms
+22:53:40.606 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+22:53:40.880 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+22:53:40.961 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+22:53:40.978 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.748 seconds (process running for 3.536)
+22:53:46.436 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 14440 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+22:53:46.438 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+22:53:48.251 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+22:53:48.258 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+22:53:48.260 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+22:53:48.261 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+22:53:48.347 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:53:48.348 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1847 ms
+22:53:48.809 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+22:53:49.226 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+22:53:49.284 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+22:53:49.314 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+22:53:49.337 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 3.344 seconds (process running for 4.472)
+22:53:53.002 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:53:53.002 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+22:53:53.005 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+23:00:19.917 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 11152 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:00:19.919 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:00:21.307 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:00:21.320 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:00:21.324 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:00:21.325 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:00:21.424 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:00:21.424 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1446 ms
+23:00:21.814 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:00:22.067 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:00:22.116 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:00:22.142 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+23:00:22.157 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.662 seconds (process running for 3.422)
+23:00:54.390 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:00:54.391 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+23:00:54.393 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+23:01:34.001 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+23:01:34.012 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699884077472
+23:05:12.512 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+23:05:12.515 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699884311445
+23:10:39.336 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 15480 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:10:39.339 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:10:40.735 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:10:40.743 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:10:40.745 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:10:40.745 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:10:40.834 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:10:40.835 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1435 ms
+23:10:41.158 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:10:41.423 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:10:41.472 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:10:41.507 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+23:10:41.522 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.579 seconds (process running for 3.33)
+23:10:58.150 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:10:58.150 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+23:10:58.153 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+23:12:18.590 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+23:12:18.594 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699884738012
+23:23:04.621 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 16020 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:23:04.624 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:23:05.976 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:23:05.984 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:23:05.985 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:23:05.985 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:23:06.078 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:23:06.079 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1389 ms
+23:23:06.395 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:23:06.632 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:23:06.682 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:23:06.709 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+23:23:06.725 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.515 seconds (process running for 3.298)
+23:23:12.596 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:23:12.596 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+23:23:12.598 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+23:23:41.060 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+23:23:41.075 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699885406842
+23:24:36.811 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+23:24:36.816 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699885476254
+23:25:38.554 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 10648 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:25:38.557 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:25:40.363 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:25:40.373 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:25:40.375 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:25:40.375 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:25:40.471 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:25:40.472 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1836 ms
+23:25:40.897 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:25:41.200 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:25:41.255 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:25:41.291 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+23:25:41.314 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 3.247 seconds (process running for 4.667)
+23:25:44.305 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:25:44.306 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+23:25:44.308 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+23:27:04.647 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 16932 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:27:04.652 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:27:06.219 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:27:06.227 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:27:06.228 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:27:06.228 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:27:06.310 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:27:06.310 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1583 ms
+23:27:06.663 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:27:06.924 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:27:06.978 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:27:07.008 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+23:27:07.031 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.814 seconds (process running for 3.659)
+23:27:34.513 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:27:34.514 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+23:27:34.516 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+23:28:46.077 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 17060 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:28:46.080 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:28:47.469 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:28:47.478 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:28:47.479 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:28:47.480 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:28:47.562 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:28:47.563 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1422 ms
+23:28:47.895 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:28:48.152 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:28:48.201 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:28:48.230 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+23:28:48.248 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.579 seconds (process running for 3.362)
+23:28:54.113 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:28:54.114 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+23:28:54.116 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+23:31:04.967 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 17908 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:31:04.969 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:31:06.401 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:31:06.408 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:31:06.409 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:31:06.409 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:31:06.502 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:31:06.503 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1475 ms
+23:31:06.861 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:31:07.138 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:31:07.189 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:31:07.217 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+23:31:07.235 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.678 seconds (process running for 3.452)
+23:31:11.853 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:31:11.853 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+23:31:11.855 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+23:32:05.106 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+23:32:05.108 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699885924584
+23:32:13.627 INFO  o.a.coyote.http11.Http11Processor - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x030x000x00*%0xe00x000x000x000x000x00Cookie: ]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+23:32:45.593 WARN  o.s.c.s.DefaultLifecycleProcessor - Failed to stop bean 'webServerGracefulShutdown'
+java.lang.NoClassDefFoundError: org/springframework/boot/web/server/GracefulShutdownCallback
+	at org.springframework.boot.web.context.WebServerGracefulShutdownLifecycle.stop(WebServerGracefulShutdownLifecycle.java:62)
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStop(DefaultLifecycleProcessor.java:234)
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.stop(DefaultLifecycleProcessor.java:373)
+	at org.springframework.context.support.DefaultLifecycleProcessor.stopBeans(DefaultLifecycleProcessor.java:206)
+	at org.springframework.context.support.DefaultLifecycleProcessor.onClose(DefaultLifecycleProcessor.java:129)
+	at org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:1067)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.doClose(ServletWebServerApplicationContext.java:173)
+	at org.springframework.context.support.AbstractApplicationContext.close(AbstractApplicationContext.java:1026)
+	at org.springframework.boot.SpringApplicationShutdownHook.closeAndWait(SpringApplicationShutdownHook.java:139)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.boot.SpringApplicationShutdownHook.run(SpringApplicationShutdownHook.java:108)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+Caused by: java.lang.ClassNotFoundException: org.springframework.boot.web.server.GracefulShutdownCallback
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:588)
+	at org.springframework.boot.loader.LaunchedURLClassLoader.loadClass(LaunchedURLClassLoader.java:149)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 12 common frames omitted
+23:32:47.832 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 16728 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:32:47.834 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:32:49.295 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:32:49.304 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:32:49.306 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:32:49.306 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:32:49.387 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:32:49.387 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1492 ms
+23:32:49.723 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:32:49.979 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:32:50.027 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:32:50.037 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+23:32:50.042 INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-80"]
+23:32:50.042 INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+23:32:50.050 INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-80"]
+23:32:50.051 INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-80"]
+23:32:50.071 INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+23:32:50.094 ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 80 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 80 or configure this application to listen on another port.
+
+23:32:57.503 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 18360 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+23:32:57.505 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+23:32:58.898 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+23:32:58.906 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+23:32:58.908 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+23:32:58.908 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+23:32:59.006 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+23:32:59.007 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1440 ms
+23:32:59.333 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:32:59.598 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:32:59.645 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+23:32:59.673 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+23:32:59.691 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.594 seconds (process running for 3.382)
+23:33:03.443 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:33:03.443 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+23:33:03.445 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms

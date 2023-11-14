@@ -5,8 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.io.File;
 
-import static java.lang.System.*;
-
 @SpringBootApplication
 public class HowToEarthApplication {
 
@@ -14,7 +12,6 @@ public class HowToEarthApplication {
         SpringApplication.run(HowToEarthApplication.class, args);
         new File(FileUploadController.UPLOAD_DIR).mkdir();
     }
-
 
 
 }

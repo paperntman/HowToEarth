@@ -1,0 +1,63 @@
+22:53:44.271 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:53:44.420 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+22:53:44.918 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 15860 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+22:53:44.919 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+22:53:47.159 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+22:53:47.744 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+22:53:47.824 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 3.207 seconds (process running for 7.287)
+22:59:56.898 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+22:59:57.038 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+22:59:57.529 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 732 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+22:59:57.532 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+22:59:59.081 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+22:59:59.459 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+22:59:59.521 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 2.29 seconds (process running for 3.94)
+23:10:31.748 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:10:31.880 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+23:10:32.359 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 8968 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+23:10:32.360 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+23:10:33.855 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:10:34.220 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:10:34.276 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 2.204 seconds (process running for 3.792)
+23:22:58.470 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:22:58.611 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+23:22:59.119 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 8752 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+23:22:59.121 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+23:23:00.573 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:23:00.939 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:23:01.000 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 2.179 seconds (process running for 3.83)
+23:25:29.985 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:25:30.205 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+23:25:30.767 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 18360 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+23:25:30.768 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+23:25:32.972 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:25:33.589 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:25:33.709 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 3.257 seconds (process running for 5.322)
+23:26:52.276 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:26:52.473 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+23:26:53.055 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 16988 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+23:26:53.057 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+23:26:54.896 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:26:55.347 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:26:55.422 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 2.689 seconds (process running for 4.514)
+23:28:30.763 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:28:30.913 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+23:28:31.405 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 6032 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+23:28:31.406 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+23:28:32.926 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:28:33.304 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:28:33.376 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 2.26 seconds (process running for 4.28)
+23:30:53.961 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:30:54.105 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+23:30:54.606 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 16940 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+23:30:54.607 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+23:30:56.148 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:30:56.527 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:30:56.602 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 2.298 seconds (process running for 4.006)
+23:32:34.193 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+23:32:34.336 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+23:32:34.808 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 12280 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+23:32:34.809 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+23:32:36.313 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+23:32:36.695 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+23:32:36.765 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 2.235 seconds (process running for 3.881)

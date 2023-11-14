@@ -1,0 +1,54 @@
+01:29:32.469 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 14808 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+01:29:32.472 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+01:29:33.803 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+01:29:33.811 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+01:29:33.813 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+01:29:33.814 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+01:29:33.916 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01:29:33.917 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1389 ms
+01:29:34.228 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+01:29:34.472 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+01:29:34.522 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+01:29:34.560 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+01:29:34.579 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.541 seconds (process running for 3.27)
+01:29:37.774 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01:29:37.774 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01:29:37.776 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+01:29:52.141 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+01:29:52.176 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699979391543
+01:31:45.937 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 4744 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+01:31:45.940 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+01:31:47.275 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+01:31:47.283 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+01:31:47.285 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+01:31:47.286 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+01:31:47.371 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01:31:47.371 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1374 ms
+01:31:47.699 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+01:31:47.986 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+01:31:48.042 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+01:31:48.069 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+01:31:48.083 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.533 seconds (process running for 3.263)
+01:31:48.350 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01:31:48.351 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01:31:48.353 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+01:31:51.934 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+01:31:51.940 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699979511894
+01:33:16.224 INFO  t.k.howtoearth.HowToEarthApplication - Starting HowToEarthApplication v0.0.1-SNAPSHOT using Java 20.0.2 with PID 3024 (C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs\HowToEarth-0.0.1-SNAPSHOT.jar started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth\build\libs)
+01:33:16.227 INFO  t.k.howtoearth.HowToEarthApplication - No active profile set, falling back to 1 default profile: "default"
+01:33:17.642 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+01:33:17.649 INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+01:33:17.651 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+01:33:17.651 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.10]
+01:33:17.756 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+01:33:17.756 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1469 ms
+01:33:18.094 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+01:33:18.326 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+01:33:18.369 INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+01:33:18.393 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+01:33:18.412 INFO  t.k.howtoearth.HowToEarthApplication - Started HowToEarthApplication in 2.58 seconds (process running for 3.346)
+01:33:18.482 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+01:33:18.483 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+01:33:18.485 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+01:33:39.316 INFO  t.k.howtoearth.FileUploadController - File Upload Try
+01:33:39.323 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1699979619283
