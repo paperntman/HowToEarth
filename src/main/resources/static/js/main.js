@@ -1,25 +1,24 @@
-
-
 (function ($) {
+    //FAQ
     "use strict";
-    
+
     // Smooth scrolling on the navbar links
     $(".navbar-nav a").on('click', function (event) {
         if (this.hash !== "") {
             event.preventDefault();
-            
+
             $('html, body').animate({
                 scrollTop: $(this.hash).offset().top - 45
             }, 1500, 'easeInOutExpo');
-            
+
             if ($(this).parents('.navbar-nav').length) {
                 $('.navbar-nav .active').removeClass('active');
                 $(this).closest('a').addClass('active');
             }
         }
     });
-    
-    
+
+
     // Back to top button
     $(window).scroll(function () {
         if ($(this).scrollTop() > 100) {
@@ -59,23 +58,23 @@
         margin: 30,
         dots: false,
         loop: true,
-        nav : true,
-        navText : [
+        nav: true,
+        navText: [
             '<i class="fa fa-angle-left" aria-hidden="true"></i>',
             '<i class="fa fa-angle-right" aria-hidden="true"></i>'
         ],
         responsive: {
-            0:{
-                items:1
+            0: {
+                items: 1
             },
-            576:{
-                items:1
+            576: {
+                items: 1
             },
-            768:{
-                items:2
+            768: {
+                items: 2
             },
-            992:{
-                items:3
+            992: {
+                items: 3
             }
         }
     });
@@ -88,23 +87,23 @@
         margin: 30,
         dots: false,
         loop: true,
-        nav : true,
-        navText : [
+        nav: true,
+        navText: [
             '<i class="fa fa-angle-left" aria-hidden="true"></i>',
             '<i class="fa fa-angle-right" aria-hidden="true"></i>'
         ],
         responsive: {
-            0:{
-                items:1
+            0: {
+                items: 1
             },
-            576:{
-                items:2
+            576: {
+                items: 2
             },
-            768:{
-                items:3
+            768: {
+                items: 3
             },
-            992:{
-                items:4
+            992: {
+                items: 4
             }
         }
     });
@@ -132,6 +131,37 @@
         loop: true,
         items: 1
     });
-    
+
+
 })(jQuery);
+
+const serverURL = "http://localhost/"
+
+function onClickUpload() {
+    let myInput = document.getElementById("imageUploader");
+    myInput.click();
+}
+
+const fileInput = document.getElementById("imageUploader");
+// 또는 const fileInput = $("#fileUpload").get(0);
+
+fileInput.onchange = () => {
+    const selectedFile = fileInput.files[0];
+    uploadFile(selectedFile)
+};
+
+
+function uploadFile(file) {
+    const formData = new FormData();
+    formData.append("file", file);
+    var timeNow = String(new Date().getTime());
+    formData.append("time", timeNow)
+
+    fetch(serverURL + "upload", {
+        method: "POST",
+        body: formData,
+    }).then(() => {
+        window.location.href = serverURL + "image.html?image="+timeNow+".png"
+    })
+}
 

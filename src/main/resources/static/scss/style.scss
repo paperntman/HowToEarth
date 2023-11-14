@@ -17,7 +17,7 @@ $enable-responsive-font-sizes: true;
 
 $border-radius: 5px;
 
-@import "bootstrap";
+@import "bootstrap/scss/bootstrap";
 
 
 /********** Custom CSS ************/
@@ -121,7 +121,7 @@ h6,
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(header.jpg), no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../img/header.jpg), no-repeat center center;
     background-size: cover;
 }
 
@@ -147,6 +147,33 @@ h6,
 
 .section-title.text-center::before,
 .section-title.text-center::after {
+    left: calc(50% - 50px);
+}
+
+
+
+.secction-title::before {
+    position: absolute;
+    content: "";
+    top: -10px;
+    left: 0;
+    width: 100px;
+    height: 5px;
+    background: $primary;
+}
+
+.secction-title::after {
+    position: absolute;
+    content: "";
+    top: -8px;
+    left: 0;
+    width: 100px;
+    height: 1px;
+    background: $secondary;
+}
+
+.secction-title.text-center::before,
+.secction-title.text-center::after {
     left: calc(50% - 50px);
 }
 
