@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="topen.khjs.howtoearth.HowToEarthApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-14T16:33:01" hostname="DESKTOP-N7OQ2NL" time="1.264">
+<testsuite name="topen.khjs.howtoearth.HowToEarthApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-16T17:09:45" hostname="DESKTOP-N7OQ2NL" time="1.106">
   <properties/>
-  <testcase name="contextLoads()" classname="topen.khjs.howtoearth.HowToEarthApplicationTests" time="1.264"/>
-  <system-out><![CDATA[01:32:57,389 |-INFO in ch.qos.logback.classic.LoggerContext[default] - This is logback-classic version 1.4.8
-01:32:57,416 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
-01:32:57,419 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml]
-01:32:57,554 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Registering a new ReconfigureOnChangeTask ReconfigureOnChangeTask(born:1699979577551)
-01:32:57,554 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Will scan for changes in [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml] 
-01:32:57,554 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Setting ReconfigureOnChangeTask scanning period to 30 seconds
-01:32:57,559 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [ROLLING]
-01:32:57,559 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
-01:32:57,600 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1545077099 - No compression will be used
-01:32:57,601 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1545077099 - Will use the pattern ./log/logback/logback-%d{yyyy-MM-dd}.%i.log for the active file
-01:32:57,604 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - The date pattern is 'yyyy-MM-dd' from file name pattern './log/logback/logback-%d{yyyy-MM-dd}.%i.log'.
-01:32:57,604 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - Roll-over at midnight.
-01:32:57,605 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - Setting initial period to 2023-11-14T16:32:57.605Z
-01:32:57,605 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead
-01:32:57,605 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy
-01:32:57,608 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
-01:32:57,630 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - Active log file name: ./log/logback/logback-2023-11-15.0.log
-01:32:57,631 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - File property is set to [null]
-01:32:57,632 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [STDOUT]
-01:32:57,632 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
-01:32:57,635 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
-01:32:57,635 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
-01:32:57,635 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
-01:32:57,635 |-INFO in ch.qos.logback.classic.model.processor.RootLoggerModelHandler - Setting level of ROOT logger to INFO
-01:32:57,635 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [ROLLING] to Logger[ROOT]
-01:32:57,636 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [STDOUT] to Logger[ROOT]
-01:32:57,636 |-INFO in ch.qos.logback.core.model.processor.DefaultProcessor@43aaf813 - End of configuration.
-01:32:57,637 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@57ac5227 - Registering current configuration as safe fallback point
+  <testcase name="contextLoads()" classname="topen.khjs.howtoearth.HowToEarthApplicationTests" time="1.106"/>
+  <system-out><![CDATA[02:09:42,310 |-INFO in ch.qos.logback.classic.LoggerContext[default] - This is logback-classic version 1.4.8
+02:09:42,339 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+02:09:42,342 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml]
+02:09:42,471 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Registering a new ReconfigureOnChangeTask ReconfigureOnChangeTask(born:1700154582468)
+02:09:42,471 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Will scan for changes in [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml] 
+02:09:42,471 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Setting ReconfigureOnChangeTask scanning period to 30 seconds
+02:09:42,476 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [ROLLING]
+02:09:42,476 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
+02:09:42,516 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1545077099 - No compression will be used
+02:09:42,517 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1545077099 - Will use the pattern ./log/logback/logback-%d{yyyy-MM-dd}.%i.log for the active file
+02:09:42,521 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - The date pattern is 'yyyy-MM-dd' from file name pattern './log/logback/logback-%d{yyyy-MM-dd}.%i.log'.
+02:09:42,521 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - Roll-over at midnight.
+02:09:42,522 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - Setting initial period to 2023-11-16T17:09:42.521Z
+02:09:42,522 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead
+02:09:42,522 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy
+02:09:42,525 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+02:09:42,546 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - Active log file name: ./log/logback/logback-2023-11-17.0.log
+02:09:42,546 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - File property is set to [null]
+02:09:42,548 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [STDOUT]
+02:09:42,548 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+02:09:42,551 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
+02:09:42,551 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
+02:09:42,551 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
+02:09:42,551 |-INFO in ch.qos.logback.classic.model.processor.RootLoggerModelHandler - Setting level of ROOT logger to INFO
+02:09:42,552 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [ROLLING] to Logger[ROOT]
+02:09:42,552 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [STDOUT] to Logger[ROOT]
+02:09:42,553 |-INFO in ch.qos.logback.core.model.processor.DefaultProcessor@43aaf813 - End of configuration.
+02:09:42,553 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@57ac5227 - Registering current configuration as safe fallback point
 
-01:32:57.751 [INFO ] - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-01:32:57.883 [INFO ] - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
-01:32:57,389 |-INFO in ch.qos.logback.classic.LoggerContext[default] - This is logback-classic version 1.4.8
-01:32:57,416 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
-01:32:57,419 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml]
-01:32:57,554 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Registering a new ReconfigureOnChangeTask ReconfigureOnChangeTask(born:1699979577551)
-01:32:57,554 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Will scan for changes in [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml] 
-01:32:57,554 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Setting ReconfigureOnChangeTask scanning period to 30 seconds
-01:32:57,559 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [ROLLING]
-01:32:57,559 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
-01:32:57,600 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1545077099 - No compression will be used
-01:32:57,601 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1545077099 - Will use the pattern ./log/logback/logback-%d{yyyy-MM-dd}.%i.log for the active file
-01:32:57,604 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - The date pattern is 'yyyy-MM-dd' from file name pattern './log/logback/logback-%d{yyyy-MM-dd}.%i.log'.
-01:32:57,604 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - Roll-over at midnight.
-01:32:57,605 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - Setting initial period to 2023-11-14T16:32:57.605Z
-01:32:57,605 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead
-01:32:57,605 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy
-01:32:57,608 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
-01:32:57,630 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - Active log file name: ./log/logback/logback-2023-11-15.0.log
-01:32:57,631 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - File property is set to [null]
-01:32:57,632 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [STDOUT]
-01:32:57,632 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
-01:32:57,635 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
-01:32:57,635 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
-01:32:57,635 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
-01:32:57,635 |-INFO in ch.qos.logback.classic.model.processor.RootLoggerModelHandler - Setting level of ROOT logger to INFO
-01:32:57,635 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [ROLLING] to Logger[ROOT]
-01:32:57,636 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [STDOUT] to Logger[ROOT]
-01:32:57,636 |-INFO in ch.qos.logback.core.model.processor.DefaultProcessor@43aaf813 - End of configuration.
-01:32:57,637 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@57ac5227 - Registering current configuration as safe fallback point
-01:32:58,263 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Registering a new ReconfigureOnChangeTask ReconfigureOnChangeTask(born:1699979578263)
-01:32:58,263 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Will scan for changes in [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml] 
-01:32:58,263 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Setting ReconfigureOnChangeTask scanning period to 30 seconds
-01:32:58,264 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [ROLLING]
-01:32:58,264 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
-01:32:58,265 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1788698111 - No compression will be used
-01:32:58,265 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1788698111 - Will use the pattern ./log/logback/logback-%d{yyyy-MM-dd}.%i.log for the active file
-01:32:58,265 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3b08f438 - The date pattern is 'yyyy-MM-dd' from file name pattern './log/logback/logback-%d{yyyy-MM-dd}.%i.log'.
-01:32:58,265 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3b08f438 - Roll-over at midnight.
-01:32:58,266 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3b08f438 - Setting initial period to 2023-11-14T16:32:58.265Z
-01:32:58,266 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3b08f438 - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead
-01:32:58,266 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@3b08f438 - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy
-01:32:58,266 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
-01:32:58,267 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - Active log file name: ./log/logback/logback-2023-11-15.0.log
-01:32:58,267 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - File property is set to [null]
-01:32:58,267 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [STDOUT]
-01:32:58,267 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
-01:32:58,268 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
-01:32:58,268 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
-01:32:58,268 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
-01:32:58,268 |-INFO in ch.qos.logback.classic.model.processor.RootLoggerModelHandler - Setting level of ROOT logger to INFO
-01:32:58,268 |-INFO in ch.qos.logback.classic.jul.LevelChangePropagator@2bac9ba - Propagating INFO level on Logger[ROOT] onto the JUL framework
-01:32:58,268 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [ROLLING] to Logger[ROOT]
-01:32:58,268 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [STDOUT] to Logger[ROOT]
-01:32:58,268 |-INFO in ch.qos.logback.core.model.processor.DefaultProcessor@5b2f8ab6 - End of configuration.
-01:32:58,269 |-INFO in org.springframework.boot.logging.logback.SpringBootJoranConfigurator@5bdd5689 - Registering current configuration as safe fallback point
+02:09:42.705 [INFO ] - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+02:09:42.885 [INFO ] - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+02:09:42,310 |-INFO in ch.qos.logback.classic.LoggerContext[default] - This is logback-classic version 1.4.8
+02:09:42,339 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+02:09:42,342 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml]
+02:09:42,471 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Registering a new ReconfigureOnChangeTask ReconfigureOnChangeTask(born:1700154582468)
+02:09:42,471 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Will scan for changes in [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml] 
+02:09:42,471 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Setting ReconfigureOnChangeTask scanning period to 30 seconds
+02:09:42,476 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [ROLLING]
+02:09:42,476 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
+02:09:42,516 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1545077099 - No compression will be used
+02:09:42,517 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@1545077099 - Will use the pattern ./log/logback/logback-%d{yyyy-MM-dd}.%i.log for the active file
+02:09:42,521 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - The date pattern is 'yyyy-MM-dd' from file name pattern './log/logback/logback-%d{yyyy-MM-dd}.%i.log'.
+02:09:42,521 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - Roll-over at midnight.
+02:09:42,522 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - Setting initial period to 2023-11-16T17:09:42.521Z
+02:09:42,522 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead
+02:09:42,522 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@33aeca0b - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy
+02:09:42,525 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+02:09:42,546 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - Active log file name: ./log/logback/logback-2023-11-17.0.log
+02:09:42,546 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - File property is set to [null]
+02:09:42,548 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [STDOUT]
+02:09:42,548 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+02:09:42,551 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
+02:09:42,551 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
+02:09:42,551 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
+02:09:42,551 |-INFO in ch.qos.logback.classic.model.processor.RootLoggerModelHandler - Setting level of ROOT logger to INFO
+02:09:42,552 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [ROLLING] to Logger[ROOT]
+02:09:42,552 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [STDOUT] to Logger[ROOT]
+02:09:42,553 |-INFO in ch.qos.logback.core.model.processor.DefaultProcessor@43aaf813 - End of configuration.
+02:09:42,553 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@57ac5227 - Registering current configuration as safe fallback point
+02:09:43,321 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Registering a new ReconfigureOnChangeTask ReconfigureOnChangeTask(born:1700154583321)
+02:09:43,321 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Will scan for changes in [file:/C:/Users/topenMacWin0330/IdeaProjects/HowToEarth/build/resources/main/logback.xml] 
+02:09:43,321 |-INFO in ch.qos.logback.classic.model.processor.ConfigurationModelHandler - Setting ReconfigureOnChangeTask scanning period to 30 seconds
+02:09:43,321 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [ROLLING]
+02:09:43,321 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]
+02:09:43,322 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@990442552 - No compression will be used
+02:09:43,323 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@990442552 - Will use the pattern ./log/logback/logback-%d{yyyy-MM-dd}.%i.log for the active file
+02:09:43,323 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2bac9ba - The date pattern is 'yyyy-MM-dd' from file name pattern './log/logback/logback-%d{yyyy-MM-dd}.%i.log'.
+02:09:43,323 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2bac9ba - Roll-over at midnight.
+02:09:43,323 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2bac9ba - Setting initial period to 2023-11-16T17:09:43.323Z
+02:09:43,323 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2bac9ba - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead
+02:09:43,323 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2bac9ba - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy
+02:09:43,324 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+02:09:43,326 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - Active log file name: ./log/logback/logback-2023-11-17.0.log
+02:09:43,326 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[ROLLING] - File property is set to [null]
+02:09:43,326 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [STDOUT]
+02:09:43,326 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+02:09:43,326 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - This appender no longer admits a layout as a sub-component, set an encoder instead.
+02:09:43,326 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - To ensure compatibility, wrapping your layout in LayoutWrappingEncoder.
+02:09:43,326 |-WARN in ch.qos.logback.core.ConsoleAppender[STDOUT] - See also http://logback.qos.ch/codes.html#layoutInsteadOfEncoder for details
+02:09:43,326 |-INFO in ch.qos.logback.classic.model.processor.RootLoggerModelHandler - Setting level of ROOT logger to INFO
+02:09:43,326 |-INFO in ch.qos.logback.classic.jul.LevelChangePropagator@5b2f8ab6 - Propagating INFO level on Logger[ROOT] onto the JUL framework
+02:09:43,327 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [ROLLING] to Logger[ROOT]
+02:09:43,327 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [STDOUT] to Logger[ROOT]
+02:09:43,327 |-INFO in ch.qos.logback.core.model.processor.DefaultProcessor@5bdd5689 - End of configuration.
+02:09:43,327 |-INFO in org.springframework.boot.logging.logback.SpringBootJoranConfigurator@2788d0fe - Registering current configuration as safe fallback point
 
 
   .   ____          _            __ _ _
@@ -97,11 +97,11 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.1.1)
 
-01:32:58.357 [INFO ] - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 8088 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
-01:32:58.358 [INFO ] - No active profile set, falling back to 1 default profile: "default"
-01:32:59.838 [INFO ] - Adding welcome page: class path resource [static/index.html]
-01:33:00.364 [INFO ] - Exposing 1 endpoint(s) beneath base path '/actuator'
-01:33:00.542 [INFO ] - Started HowToEarthApplicationTests in 2.468 seconds (process running for 4.112)
+02:09:43.423 [INFO ] - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 4776 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+02:09:43.424 [INFO ] - No active profile set, falling back to 1 default profile: "default"
+02:09:45.254 [INFO ] - Adding welcome page: class path resource [static/index.html]
+02:09:45.708 [INFO ] - Exposing 1 endpoint(s) beneath base path '/actuator'
+02:09:45.782 [INFO ] - Started HowToEarthApplicationTests in 2.677 seconds (process running for 4.334)
 Hello. WOrld!]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -23,9 +23,22 @@ $(function() {
         data: '{"Url": "'+serverURL+'image/'+name+'"}',
     })
         .done(function(data) {
-            console.log(data);
+            let highest = data['predictions'][0];
+            for (let i = 1; i < data['predictions'].length; i++) {
+                let iElement = data['predictions'][i];
+                let iOdd = iElement['probability'];
+                let cOdd = highest['probability'];
+
+                if (iOdd > cOdd) highest = iElement
+            }
+
+            document.getElementById("spinner").style.display = "none"
+            document.getElementById(highest['tagName']).style.display = "unset"
+
         })
         .fail(function() {
             console.log("failed")
+            document.getElementById("spinner").style.display = "none"
+            document.getElementById("error").style.display = "unset"
         });
 });
