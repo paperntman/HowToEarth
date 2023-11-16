@@ -135,7 +135,7 @@
 
 })(jQuery);
 
-const serverURL = "http://localhost/"
+const serverURL = "http://topen0330.kro.kr/"
 
 function onClickUpload() {
     let myInput = document.getElementById("imageUploader");

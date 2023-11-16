@@ -785,3 +785,10 @@ Identify and stop the process that's listening on port 80 or configure this appl
 02:09:47.267 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
 02:09:50.504 INFO  t.k.howtoearth.FileUploadController - File Upload Try
 02:09:50.510 INFO  t.k.howtoearth.FileUploadController - File uploaded successfully: 1700154590472
+02:45:56.399 INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [topen.khjs.howtoearth.HowToEarthApplicationTests]: HowToEarthApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+02:45:56.529 INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration topen.khjs.howtoearth.HowToEarthApplication for test class topen.khjs.howtoearth.HowToEarthApplicationTests
+02:45:56.966 INFO  t.k.h.HowToEarthApplicationTests - Starting HowToEarthApplicationTests using Java 19.0.2 with PID 7284 (started by topenMacWin0330 in C:\Users\topenMacWin0330\IdeaProjects\HowToEarth)
+02:45:56.967 INFO  t.k.h.HowToEarthApplicationTests - No active profile set, falling back to 1 default profile: "default"
+02:45:58.330 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+02:45:58.657 INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+02:45:58.713 INFO  t.k.h.HowToEarthApplicationTests - Started HowToEarthApplicationTests in 2.019 seconds (process running for 3.505)
