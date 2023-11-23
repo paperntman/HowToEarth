@@ -9,7 +9,7 @@ $(function() {
 
     const name = urlParams.get('image');
 
-    const serverURL = "http://topen0330.kro.kr/"
+    const serverURL = "http://howtoearth.kro.kr/"
 
     $.ajax({
         url: "https://topen0330cv.cognitiveservices.azure.com/customvision/v3.0/Prediction/37744c03-6db3-47a3-9881-840d0bb21ac8/classify/iterations/Iteration3/url?" + $.param(params),
