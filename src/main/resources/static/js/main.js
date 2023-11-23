@@ -135,7 +135,7 @@
 
 })(jQuery);
 
-const serverURL = "http://topen0330.kro.kr/"
+const serverURL = "http://howtoearth.kro.kr/"
 
 function onClickUpload() {
     let myInput = document.getElementById("imageUploader");
